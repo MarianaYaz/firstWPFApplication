@@ -12,9 +12,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Resource Include="image.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Resource>
     <Resource Include="watermark.png" />
   </ItemGroup>
 

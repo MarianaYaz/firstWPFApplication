@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mariana\\source\\repos\\homeworksTechnologiesConstruction\\ExpenseIt\\ExpenseIt.csproj": {}
+    "C:\\Users\\Mariana\\Documents\\GitHub\\homeworksTechnologiesConstruction\\ExpenseIt\\ExpenseIt.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mariana\\source\\repos\\homeworksTechnologiesConstruction\\ExpenseIt\\ExpenseIt.csproj": {
+    "C:\\Users\\Mariana\\Documents\\GitHub\\homeworksTechnologiesConstruction\\ExpenseIt\\ExpenseIt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mariana\\source\\repos\\homeworksTechnologiesConstruction\\ExpenseIt\\ExpenseIt.csproj",
+        "projectUniqueName": "C:\\Users\\Mariana\\Documents\\GitHub\\homeworksTechnologiesConstruction\\ExpenseIt\\ExpenseIt.csproj",
         "projectName": "ExpenseIt",
-        "projectPath": "C:\\Users\\Mariana\\source\\repos\\homeworksTechnologiesConstruction\\ExpenseIt\\ExpenseIt.csproj",
+        "projectPath": "C:\\Users\\Mariana\\Documents\\GitHub\\homeworksTechnologiesConstruction\\ExpenseIt\\ExpenseIt.csproj",
         "packagesPath": "C:\\Users\\Mariana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mariana\\source\\repos\\homeworksTechnologiesConstruction\\ExpenseIt\\obj\\",
+        "outputPath": "C:\\Users\\Mariana\\Documents\\GitHub\\homeworksTechnologiesConstruction\\ExpenseIt\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mariana\\AppData\\Roaming\\NuGet\\NuGet.Config",
